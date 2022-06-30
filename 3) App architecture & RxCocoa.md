@@ -37,3 +37,10 @@ RxCocoa 는 UISwitch 클래스에 `rx.isOn` 프로퍼티를 추가하므로 이�
 <img src="https://user-images.githubusercontent.com/69136340/176762415-37f4dd0a-3c2e-4d28-a13a-2e40dce069e8.png" width ="700">
 
 또한, RxCocoa `rx` 네임스페이스를 `UITextField`, `URLSession`, `UIViewController` 등에 추가하고 이 네임스페이스 아래에 자신만의 reactive extensions 정의할 수도 있습니다.
+
+<div align = center>
+
+  <img src="https://user-images.githubusercontent.com/69136340/176763436-06f286f9-ea8b-4d82-a281-e726aa93e83d.png" width ="500">
+  
+**사진 출처:** [[RxSwift] 1. RxSwift의 개념](https://ios-development.tistory.com/95?category=916618)
+</div>
